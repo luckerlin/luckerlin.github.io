@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>六月的风的博客</title>
+    <link>http://blog.junewind.top/</link>
+    
+    <image>
+      <url>http://blog.junewind.top/icon.png</url>
+      <title>六月的风的博客</title>
+      <link>http://blog.junewind.top/</link>
+    </image>
+    
+    <atom:link href="http://blog.junewind.top/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>一个有趣的博客</description>
+    <pubDate>Sat, 28 Jan 2023 02:18:36 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hexo加密功能测试</title>
+      <link>http://blog.junewind.top/p/encryption/</link>
+      <guid>http://blog.junewind.top/p/encryption/</guid>
+      <pubDate>Thu, 26 Jan 2023 11:04:40 GMT</pubDate>
+      
+      <description>有东西被加密了, 请输入密码查看.</description>
+      
+      
+      
+      
+      <category domain="http://blog.junewind.top/categories/Hexo-%E5%8D%9A%E5%AE%A2/">Hexo 博客</category>
+      
+      
+      <category domain="http://blog.junewind.top/tags/Hexo/">Hexo</category>
+      
+      
+      <comments>http://blog.junewind.top/p/encryption/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://blog.junewind.top/p/4a17b156/</link>
+      <guid>http://blog.junewind.top/p/4a17b156/</guid>
+      <pubDate>Sun, 16 Oct 2022 05:57:00 GMT</pubDate>
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Hexo 默认文件，想来想去还是不删了，留作纪念。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
+      
+      
+      
+      
+      
+      <category domain="http://blog.junewind.top/tags/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/">关于本站</category>
+      
+      
+      <comments>http://blog.junewind.top/p/4a17b156/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Python 文件去重</title>
+      <link>http://blog.junewind.top/p/fileDe-duplication/</link>
+      <guid>http://blog.junewind.top/p/fileDe-duplication/</guid>
+      <pubDate>Sun, 16 Oct 2022 05:56:43 GMT</pubDate>
+      
+      <description>利用 Python 函数 filecmp.cmp(f1, f2, shallow=True) 或 自行检验文件大小、MD5 值和 SHA1 值，进行文件去重</description>
+      
+      
+      
+      
+      <category domain="http://blog.junewind.top/categories/Python/">Python</category>
+      
+      
+      <category domain="http://blog.junewind.top/tags/%E5%AE%9E%E4%BE%8B/">实例</category>
+      
+      
+      <comments>http://blog.junewind.top/p/fileDe-duplication/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>新型冠状病毒全国疫情Api接口</title>
+      <link>http://blog.junewind.top/p/epidemicSituationApi/</link>
+      <guid>http://blog.junewind.top/p/epidemicSituationApi/</guid>
+      <pubDate>Fri, 26 Aug 2022 10:42:43 GMT</pubDate>
+      
+      <description>新型冠状病毒全国疫情 Api 接口</description>
+      
+      
+      
+      
+      <category domain="http://blog.junewind.top/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="http://blog.junewind.top/tags/Api/">Api</category>
+      
+      
+      <comments>http://blog.junewind.top/p/epidemicSituationApi/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>一言:一句话的接口</title>
+      <link>http://blog.junewind.top/p/HitokotoApi/</link>
+      <guid>http://blog.junewind.top/p/HitokotoApi/</guid>
+      <pubDate>Fri, 26 Aug 2022 10:42:43 GMT</pubDate>
+      
+      <description>一言网，用心践行“用代码表达言语的魅力，用代码书写山河的壮丽”。</description>
+      
+      
+      
+      
+      <category domain="http://blog.junewind.top/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      
+      <category domain="http://blog.junewind.top/tags/Api/">Api</category>
+      
+      
+      <comments>http://blog.junewind.top/p/HitokotoApi/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
