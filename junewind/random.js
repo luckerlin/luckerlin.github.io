@@ -1,1 +1,1 @@
-var posts=["p/4a17b156/","p/epidemicSituationAPI/","p/HitokotoApi/","p/fileDe-duplication/","p/encryption/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
+var posts=["p/epidemicSituationAPI/","p/4a17b156/","p/HitokotoApi/","p/fileDe-duplication/","p/encryption/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
