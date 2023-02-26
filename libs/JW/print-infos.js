@@ -16,7 +16,7 @@ function createtime() {
  ╚█████╔╝╚██████╔╝██║ ╚████║███████╗╚███╔███╔╝██║██║ ╚████║██████╔╝    ██████╔╝███████╗╚██████╔╝╚██████╔╝
  ╚════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝     ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝                                                                                                                                                                                                       
 
-`, ' 六月的风 的博客已上线', dnum, '天,', '现在是', now, '©2022 By JuneWind']
+`, ' 六月的风 的博客已上线', dnum, '天,', '现在是', now, '©2023 By JuneWind']
 
  setTimeout(
    console.log.bind(
@@ -38,7 +38,7 @@ function createtime() {
 
  setTimeout(
  console.log.bind(
-  console, '%c Attention %c  你已打开控制台. 精彩内容可不在控制台哦!', 'color:white; background-color:#4f90d9', '')
+  console, '%c Attention %c  你已打开控制台. 精彩内容并不在控制台哦!', 'color:white; background-color:#4f90d9', '')
  );
 }
 createtime();
