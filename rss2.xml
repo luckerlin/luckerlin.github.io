@@ -64,8 +64,8 @@
     
     <item>
       <title>Python 文件去重</title>
-      <link>http://blog.junewind.top/p/fileDe-duplication/</link>
-      <guid>http://blog.junewind.top/p/fileDe-duplication/</guid>
+      <link>http://blog.junewind.top/p/f4adc632/</link>
+      <guid>http://blog.junewind.top/p/f4adc632/</guid>
       <pubDate>Sun, 16 Oct 2022 05:56:43 GMT</pubDate>
       
       <description>利用 Python 函数 filecmp.cmp(f1, f2, shallow=True) 或 自行检验文件大小、MD5 值和 SHA1 值，进行文件去重</description>
@@ -79,14 +79,14 @@
       <category domain="http://blog.junewind.top/tags/%E5%AE%9E%E4%BE%8B/">实例</category>
       
       
-      <comments>http://blog.junewind.top/p/fileDe-duplication/#disqus_thread</comments>
+      <comments>http://blog.junewind.top/p/f4adc632/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>新型冠状病毒全国疫情 API 接口</title>
-      <link>http://blog.junewind.top/p/epidemicSituationAPI/</link>
-      <guid>http://blog.junewind.top/p/epidemicSituationAPI/</guid>
+      <link>http://blog.junewind.top/p/7ea80d1a/</link>
+      <guid>http://blog.junewind.top/p/7ea80d1a/</guid>
       <pubDate>Fri, 26 Aug 2022 10:42:43 GMT</pubDate>
       
       <description>新型冠状病毒全国疫情 Api 接口</description>
@@ -100,14 +100,14 @@
       <category domain="http://blog.junewind.top/tags/WebAPI/">WebAPI</category>
       
       
-      <comments>http://blog.junewind.top/p/epidemicSituationAPI/#disqus_thread</comments>
+      <comments>http://blog.junewind.top/p/7ea80d1a/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>一言:一句话的接口</title>
-      <link>http://blog.junewind.top/p/HitokotoApi/</link>
-      <guid>http://blog.junewind.top/p/HitokotoApi/</guid>
+      <link>http://blog.junewind.top/p/45ffd488/</link>
+      <guid>http://blog.junewind.top/p/45ffd488/</guid>
       <pubDate>Fri, 26 Aug 2022 10:42:43 GMT</pubDate>
       
       <description>一言网，用心践行“用代码表达言语的魅力，用代码书写山河的壮丽”。</description>
@@ -121,7 +121,7 @@
       <category domain="http://blog.junewind.top/tags/WebAPI/">WebAPI</category>
       
       
-      <comments>http://blog.junewind.top/p/HitokotoApi/#disqus_thread</comments>
+      <comments>http://blog.junewind.top/p/45ffd488/#disqus_thread</comments>
       
     </item>
     
