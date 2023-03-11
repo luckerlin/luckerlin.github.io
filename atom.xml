@@ -6,7 +6,7 @@
   <link href="http://blog.junewind.top/atom.xml" rel="self"/>
   
   <link href="http://blog.junewind.top/"/>
-  <updated>2023-02-26T10:30:27.400Z</updated>
+  <updated>2023-03-11T13:25:38.940Z</updated>
   <id>http://blog.junewind.top/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【双语转发】十四届全国人大一次会议记者会——外交部长秦刚答记者问（2023年）</title>
+    <link href="http://blog.junewind.top/p/dd4a5138/"/>
+    <id>http://blog.junewind.top/p/dd4a5138/</id>
+    <published>2023-03-07T00:00:00.000Z</published>
+    <updated>2023-03-11T13:25:38.940Z</updated>
+    
+    
+    <summary type="html">【双语转发】十四届全国人大一次会议记者会——外交部长秦刚答记者问（2023年）</summary>
+    
+    
+    
+    <category term="转发" scheme="http://blog.junewind.top/categories/%E8%BD%AC%E5%8F%91/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo加密功能测试</title>
@@ -61,7 +78,7 @@
     <link href="http://blog.junewind.top/p/f4adc632/"/>
     <id>http://blog.junewind.top/p/f4adc632/</id>
     <published>2022-10-16T05:56:43.000Z</published>
-    <updated>2023-03-05T16:08:03.256Z</updated>
+    <updated>2023-03-05T16:10:37.410Z</updated>
     
     
     <summary type="html">利用 Python 函数 filecmp.cmp(f1, f2, shallow=True) 或 自行检验文件大小、MD5 值和 SHA1 值，进行文件去重</summary>
@@ -80,7 +97,7 @@
     <link href="http://blog.junewind.top/p/7ea80d1a/"/>
     <id>http://blog.junewind.top/p/7ea80d1a/</id>
     <published>2022-08-26T10:42:43.000Z</published>
-    <updated>2023-03-05T16:07:30.408Z</updated>
+    <updated>2023-03-05T16:11:06.773Z</updated>
     
     
     <summary type="html">新型冠状病毒全国疫情 Api 接口</summary>
@@ -99,7 +116,7 @@
     <link href="http://blog.junewind.top/p/45ffd488/"/>
     <id>http://blog.junewind.top/p/45ffd488/</id>
     <published>2022-08-26T10:42:43.000Z</published>
-    <updated>2023-03-05T16:09:34.677Z</updated>
+    <updated>2023-03-05T16:10:56.262Z</updated>
     
     
     <summary type="html">一言网，用心践行“用代码表达言语的魅力，用代码书写山河的壮丽”。</summary>
