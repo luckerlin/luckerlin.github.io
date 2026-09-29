@@ -1,0 +1,1 @@
+var posts=["p/54606/","p/32865/","p/c2adb882/","p/f4adc632/","p/45ffd488/","p/53f9/","p/152e2c7f/","p/5e658d3/","p/2a0f6375/","p/e841f938/"];function toRandomPost(){window.open("/"+posts[Math.floor(Math.random()*posts.length)],"_self")}

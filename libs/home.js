@@ -1,0 +1,1 @@
+function hello(){document.querySelector(".hello-about").addEventListener("mousemove",(e=>{const t=e.offsetX,o=e.offsetY;gsap.set(".cursor",{x:t,y:o}),gsap.to(".shape",{x:t,y:o,stagger:-.1})}))}"object"==typeof gsap?hello():getScript("https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/gsap/3.9.1/gsap.min.js").then(hello);
